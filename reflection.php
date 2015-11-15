@@ -27,8 +27,8 @@
             'from_email' => 'uek@no-replay.com',
             'to' => array(
               array(
-                'email' => 'magda.dynowska@interia.pl',
-                'name' => 'Magda Dynowska'
+                'email' => 'wojcikk@wizard.uek.krakow.pl',
+                'name' => 'Katarzyna Wójcik'
               )
             )
         )
